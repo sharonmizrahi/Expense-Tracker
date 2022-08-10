@@ -1,0 +1,9 @@
+.balance-header {
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.balance-total {
+  letter-spacing: 1px;
+  margin: 0;
+}
